@@ -1,0 +1,447 @@
+
+Pinging google.com [2404:6800:4002:811::200e] with 32 bytes of data:
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=137ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=506ms 
+Reply from 2404:6800:4002:811::200e: time=86ms 
+Reply from 2404:6800:4002:811::200e: time=170ms 
+Reply from 2404:6800:4002:811::200e: time=275ms 
+Reply from 2404:6800:4002:811::200e: time=326ms 
+Reply from 2404:6800:4002:811::200e: time=81ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=207ms 
+Reply from 2404:6800:4002:811::200e: time=499ms 
+Reply from 2404:6800:4002:811::200e: time=136ms 
+Reply from 2404:6800:4002:811::200e: time=154ms 
+Reply from 2404:6800:4002:811::200e: time=88ms 
+Reply from 2404:6800:4002:811::200e: time=114ms 
+Reply from 2404:6800:4002:811::200e: time=673ms 
+Reply from 2404:6800:4002:811::200e: time=328ms 
+Reply from 2404:6800:4002:811::200e: time=75ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=185ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=142ms 
+Reply from 2404:6800:4002:811::200e: time=95ms 
+Reply from 2404:6800:4002:811::200e: time=133ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=92ms 
+Reply from 2404:6800:4002:811::200e: time=706ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=2024ms 
+Reply from 2404:6800:4002:811::200e: time=117ms 
+Reply from 2404:6800:4002:811::200e: time=204ms 
+Reply from 2404:6800:4002:811::200e: time=310ms 
+Reply from 2404:6800:4002:811::200e: time=93ms 
+Reply from 2404:6800:4002:811::200e: time=93ms 
+Reply from 2404:6800:4002:811::200e: time=148ms 
+Reply from 2404:6800:4002:811::200e: time=258ms 
+Reply from 2404:6800:4002:811::200e: time=101ms 
+Reply from 2404:6800:4002:811::200e: time=1116ms 
+Reply from 2404:6800:4002:811::200e: time=202ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=92ms 
+Reply from 2404:6800:4002:811::200e: time=101ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=374ms 
+Reply from 2404:6800:4002:811::200e: time=118ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=210ms 
+Reply from 2404:6800:4002:811::200e: time=321ms 
+Reply from 2404:6800:4002:811::200e: time=632ms 
+Reply from 2404:6800:4002:811::200e: time=112ms 
+Reply from 2404:6800:4002:811::200e: time=88ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=118ms 
+Reply from 2404:6800:4002:811::200e: time=314ms 
+Reply from 2404:6800:4002:811::200e: time=92ms 
+Reply from 2404:6800:4002:811::200e: time=193ms 
+Reply from 2404:6800:4002:811::200e: time=287ms 
+Reply from 2404:6800:4002:811::200e: time=76ms 
+Reply from 2404:6800:4002:811::200e: time=314ms 
+Reply from 2404:6800:4002:811::200e: time=366ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=133ms 
+Reply from 2404:6800:4002:811::200e: time=430ms 
+Reply from 2404:6800:4002:811::200e: time=303ms 
+Reply from 2404:6800:4002:811::200e: time=190ms 
+Reply from 2404:6800:4002:811::200e: time=113ms 
+Reply from 2404:6800:4002:811::200e: time=867ms 
+Reply from 2404:6800:4002:811::200e: time=249ms 
+Reply from 2404:6800:4002:811::200e: time=128ms 
+Reply from 2404:6800:4002:811::200e: time=108ms 
+Reply from 2404:6800:4002:811::200e: time=108ms 
+Reply from 2404:6800:4002:811::200e: time=196ms 
+Reply from 2404:6800:4002:811::200e: time=318ms 
+Reply from 2404:6800:4002:811::200e: time=84ms 
+Reply from 2404:6800:4002:811::200e: time=99ms 
+Reply from 2404:6800:4002:811::200e: time=837ms 
+Reply from 2404:6800:4002:811::200e: time=240ms 
+Reply from 2404:6800:4002:811::200e: time=94ms 
+Reply from 2404:6800:4002:811::200e: time=65ms 
+Reply from 2404:6800:4002:811::200e: time=1038ms 
+Reply from 2404:6800:4002:811::200e: time=226ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=82ms 
+Reply from 2404:6800:4002:811::200e: time=198ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=267ms 
+Reply from 2404:6800:4002:811::200e: time=142ms 
+Reply from 2404:6800:4002:811::200e: time=501ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=96ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=223ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=489ms 
+Reply from 2404:6800:4002:811::200e: time=158ms 
+Reply from 2404:6800:4002:811::200e: time=163ms 
+Reply from 2404:6800:4002:811::200e: time=96ms 
+Reply from 2404:6800:4002:811::200e: time=641ms 
+Reply from 2404:6800:4002:811::200e: time=255ms 
+Reply from 2404:6800:4002:811::200e: time=206ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Reply from 2404:6800:4002:811::200e: time=182ms 
+Reply from 2404:6800:4002:811::200e: time=960ms 
+Reply from 2404:6800:4002:811::200e: time=86ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=126ms 
+Reply from 2404:6800:4002:811::200e: time=232ms 
+Reply from 2404:6800:4002:811::200e: time=554ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=178ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=477ms 
+Reply from 2404:6800:4002:811::200e: time=109ms 
+Reply from 2404:6800:4002:811::200e: time=326ms 
+Reply from 2404:6800:4002:811::200e: time=88ms 
+Reply from 2404:6800:4002:811::200e: time=149ms 
+Reply from 2404:6800:4002:811::200e: time=1040ms 
+Reply from 2404:6800:4002:811::200e: time=170ms 
+Reply from 2404:6800:4002:811::200e: time=116ms 
+Reply from 2404:6800:4002:811::200e: time=76ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=118ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=363ms 
+Reply from 2404:6800:4002:811::200e: time=188ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=141ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=106ms 
+Reply from 2404:6800:4002:811::200e: time=750ms 
+Reply from 2404:6800:4002:811::200e: time=308ms 
+Reply from 2404:6800:4002:811::200e: time=75ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=161ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=399ms 
+Reply from 2404:6800:4002:811::200e: time=96ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=154ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=419ms 
+Reply from 2404:6800:4002:811::200e: time=225ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=125ms 
+Reply from 2404:6800:4002:811::200e: time=434ms 
+Reply from 2404:6800:4002:811::200e: time=153ms 
+Reply from 2404:6800:4002:811::200e: time=121ms 
+Reply from 2404:6800:4002:811::200e: time=218ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=69ms 
+Reply from 2404:6800:4002:811::200e: time=195ms 
+Reply from 2404:6800:4002:811::200e: time=244ms 
+Reply from 2404:6800:4002:811::200e: time=111ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=137ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=536ms 
+Reply from 2404:6800:4002:811::200e: time=108ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=77ms 
+Reply from 2404:6800:4002:811::200e: time=86ms 
+Reply from 2404:6800:4002:811::200e: time=698ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=339ms 
+Reply from 2404:6800:4002:811::200e: time=1600ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Reply from 2404:6800:4002:811::200e: time=123ms 
+Reply from 2404:6800:4002:811::200e: time=137ms 
+Reply from 2404:6800:4002:811::200e: time=612ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Reply from 2404:6800:4002:811::200e: time=210ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=98ms 
+Reply from 2404:6800:4002:811::200e: time=449ms 
+Reply from 2404:6800:4002:811::200e: time=233ms 
+Reply from 2404:6800:4002:811::200e: time=112ms 
+Reply from 2404:6800:4002:811::200e: time=82ms 
+Reply from 2404:6800:4002:811::200e: time=92ms 
+Reply from 2404:6800:4002:811::200e: time=179ms 
+Reply from 2404:6800:4002:811::200e: time=571ms 
+Reply from 2404:6800:4002:811::200e: time=144ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=123ms 
+Reply from 2404:6800:4002:811::200e: time=933ms 
+Reply from 2404:6800:4002:811::200e: time=120ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=179ms 
+Reply from 2404:6800:4002:811::200e: time=514ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=105ms 
+Reply from 2404:6800:4002:811::200e: time=351ms 
+Reply from 2404:6800:4002:811::200e: time=101ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=197ms 
+Reply from 2404:6800:4002:811::200e: time=167ms 
+Reply from 2404:6800:4002:811::200e: time=120ms 
+Reply from 2404:6800:4002:811::200e: time=81ms 
+Reply from 2404:6800:4002:811::200e: time=117ms 
+Reply from 2404:6800:4002:811::200e: time=95ms 
+Reply from 2404:6800:4002:811::200e: time=119ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=630ms 
+Reply from 2404:6800:4002:811::200e: time=193ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=70ms 
+Reply from 2404:6800:4002:811::200e: time=88ms 
+Reply from 2404:6800:4002:811::200e: time=152ms 
+Reply from 2404:6800:4002:811::200e: time=121ms 
+Reply from 2404:6800:4002:811::200e: time=123ms 
+Reply from 2404:6800:4002:811::200e: time=491ms 
+Reply from 2404:6800:4002:811::200e: time=315ms 
+Reply from 2404:6800:4002:811::200e: time=192ms 
+Reply from 2404:6800:4002:811::200e: time=99ms 
+Reply from 2404:6800:4002:811::200e: time=520ms 
+Reply from 2404:6800:4002:811::200e: time=280ms 
+Reply from 2404:6800:4002:811::200e: time=133ms 
+Reply from 2404:6800:4002:811::200e: time=145ms 
+Reply from 2404:6800:4002:811::200e: time=420ms 
+Reply from 2404:6800:4002:811::200e: time=82ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=714ms 
+Reply from 2404:6800:4002:811::200e: time=265ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=350ms 
+Reply from 2404:6800:4002:811::200e: time=84ms 
+Reply from 2404:6800:4002:811::200e: time=260ms 
+Reply from 2404:6800:4002:811::200e: time=79ms 
+Reply from 2404:6800:4002:811::200e: time=75ms 
+Reply from 2404:6800:4002:811::200e: time=160ms 
+Reply from 2404:6800:4002:811::200e: time=558ms 
+Reply from 2404:6800:4002:811::200e: time=86ms 
+Reply from 2404:6800:4002:811::200e: time=82ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=469ms 
+Reply from 2404:6800:4002:811::200e: time=283ms 
+Reply from 2404:6800:4002:811::200e: time=157ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=498ms 
+Reply from 2404:6800:4002:811::200e: time=196ms 
+Reply from 2404:6800:4002:811::200e: time=70ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=174ms 
+Reply from 2404:6800:4002:811::200e: time=573ms 
+Reply from 2404:6800:4002:811::200e: time=98ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=130ms 
+Reply from 2404:6800:4002:811::200e: time=225ms 
+Reply from 2404:6800:4002:811::200e: time=227ms 
+Reply from 2404:6800:4002:811::200e: time=163ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=196ms 
+Reply from 2404:6800:4002:811::200e: time=94ms 
+Reply from 2404:6800:4002:811::200e: time=99ms 
+Reply from 2404:6800:4002:811::200e: time=112ms 
+Reply from 2404:6800:4002:811::200e: time=153ms 
+Reply from 2404:6800:4002:811::200e: time=110ms 
+Reply from 2404:6800:4002:811::200e: time=316ms 
+Reply from 2404:6800:4002:811::200e: time=214ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=197ms 
+Reply from 2404:6800:4002:811::200e: time=160ms 
+Reply from 2404:6800:4002:811::200e: time=1276ms 
+Reply from 2404:6800:4002:811::200e: time=441ms 
+Reply from 2404:6800:4002:811::200e: time=146ms 
+Reply from 2404:6800:4002:811::200e: time=98ms 
+Reply from 2404:6800:4002:811::200e: time=266ms 
+Reply from 2404:6800:4002:811::200e: time=148ms 
+Reply from 2404:6800:4002:811::200e: time=697ms 
+Reply from 2404:6800:4002:811::200e: time=106ms 
+Reply from 2404:6800:4002:811::200e: time=84ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=239ms 
+Reply from 2404:6800:4002:811::200e: time=118ms 
+Reply from 2404:6800:4002:811::200e: time=277ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=155ms 
+Reply from 2404:6800:4002:811::200e: time=93ms 
+Reply from 2404:6800:4002:811::200e: time=679ms 
+Reply from 2404:6800:4002:811::200e: time=95ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=174ms 
+Reply from 2404:6800:4002:811::200e: time=86ms 
+Reply from 2404:6800:4002:811::200e: time=163ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=842ms 
+Reply from 2404:6800:4002:811::200e: time=107ms 
+Reply from 2404:6800:4002:811::200e: time=80ms 
+Reply from 2404:6800:4002:811::200e: time=165ms 
+Reply from 2404:6800:4002:811::200e: time=136ms 
+Reply from 2404:6800:4002:811::200e: time=161ms 
+Reply from 2404:6800:4002:811::200e: time=99ms 
+Reply from 2404:6800:4002:811::200e: time=118ms 
+Reply from 2404:6800:4002:811::200e: time=81ms 
+Reply from 2404:6800:4002:811::200e: time=110ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=754ms 
+Reply from 2404:6800:4002:811::200e: time=155ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=3085ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=671ms 
+Reply from 2404:6800:4002:811::200e: time=314ms 
+Reply from 2404:6800:4002:811::200e: time=195ms 
+Reply from 2404:6800:4002:811::200e: time=62ms 
+Reply from 2404:6800:4002:811::200e: time=557ms 
+Reply from 2404:6800:4002:811::200e: time=267ms 
+Reply from 2404:6800:4002:811::200e: time=146ms 
+Reply from 2404:6800:4002:811::200e: time=68ms 
+Reply from 2404:6800:4002:811::200e: time=89ms 
+Reply from 2404:6800:4002:811::200e: time=1158ms 
+Reply from 2404:6800:4002:811::200e: time=158ms 
+Reply from 2404:6800:4002:811::200e: time=82ms 
+Reply from 2404:6800:4002:811::200e: time=95ms 
+Reply from 2404:6800:4002:811::200e: time=219ms 
+Reply from 2404:6800:4002:811::200e: time=959ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=81ms 
+Reply from 2404:6800:4002:811::200e: time=168ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=856ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=81ms 
+Reply from 2404:6800:4002:811::200e: time=141ms 
+Reply from 2404:6800:4002:811::200e: time=805ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=88ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=311ms 
+Reply from 2404:6800:4002:811::200e: time=600ms 
+Reply from 2404:6800:4002:811::200e: time=79ms 
+Reply from 2404:6800:4002:811::200e: time=167ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=132ms 
+Reply from 2404:6800:4002:811::200e: time=192ms 
+Reply from 2404:6800:4002:811::200e: time=827ms 
+Reply from 2404:6800:4002:811::200e: time=76ms 
+Reply from 2404:6800:4002:811::200e: time=74ms 
+Reply from 2404:6800:4002:811::200e: time=88ms 
+Reply from 2404:6800:4002:811::200e: time=277ms 
+Reply from 2404:6800:4002:811::200e: time=1083ms 
+Reply from 2404:6800:4002:811::200e: time=102ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Reply from 2404:6800:4002:811::200e: time=143ms 
+Reply from 2404:6800:4002:811::200e: time=109ms 
+Reply from 2404:6800:4002:811::200e: time=395ms 
+Reply from 2404:6800:4002:811::200e: time=116ms 
+Reply from 2404:6800:4002:811::200e: time=179ms 
+Reply from 2404:6800:4002:811::200e: time=195ms 
+Reply from 2404:6800:4002:811::200e: time=164ms 
+Reply from 2404:6800:4002:811::200e: time=93ms 
+Reply from 2404:6800:4002:811::200e: time=129ms 
+Reply from 2404:6800:4002:811::200e: time=226ms 
+Reply from 2404:6800:4002:811::200e: time=103ms 
+Reply from 2404:6800:4002:811::200e: time=412ms 
+Reply from 2404:6800:4002:811::200e: time=77ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=299ms 
+Reply from 2404:6800:4002:811::200e: time=92ms 
+Reply from 2404:6800:4002:811::200e: time=83ms 
+Reply from 2404:6800:4002:811::200e: time=159ms 
+Reply from 2404:6800:4002:811::200e: time=790ms 
+Reply from 2404:6800:4002:811::200e: time=94ms 
+Reply from 2404:6800:4002:811::200e: time=87ms 
+Reply from 2404:6800:4002:811::200e: time=317ms 
+Reply from 2404:6800:4002:811::200e: time=840ms 
+Reply from 2404:6800:4002:811::200e: time=84ms 
+Reply from 2404:6800:4002:811::200e: time=97ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=138ms 
+Reply from 2404:6800:4002:811::200e: time=84ms 
+Reply from 2404:6800:4002:811::200e: time=84ms 
+Reply from 2404:6800:4002:811::200e: time=1118ms 
+Reply from 2404:6800:4002:811::200e: time=200ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=74ms 
+Reply from 2404:6800:4002:811::200e: time=135ms 
+Reply from 2404:6800:4002:811::200e: time=140ms 
+Reply from 2404:6800:4002:811::200e: time=521ms 
+Reply from 2404:6800:4002:811::200e: time=106ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=588ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=176ms 
+Reply from 2404:6800:4002:811::200e: time=219ms 
+Reply from 2404:6800:4002:811::200e: time=99ms 
+Reply from 2404:6800:4002:811::200e: time=262ms 
+Reply from 2404:6800:4002:811::200e: time=147ms 
+Reply from 2404:6800:4002:811::200e: time=103ms 
+Reply from 2404:6800:4002:811::200e: time=220ms 
+Reply from 2404:6800:4002:811::200e: time=239ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=217ms 
+Reply from 2404:6800:4002:811::200e: time=85ms 
+Reply from 2404:6800:4002:811::200e: time=131ms 
+Reply from 2404:6800:4002:811::200e: time=276ms 
+Reply from 2404:6800:4002:811::200e: time=76ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=176ms 
+Reply from 2404:6800:4002:811::200e: time=93ms 
+Reply from 2404:6800:4002:811::200e: time=90ms 
+Reply from 2404:6800:4002:811::200e: time=125ms 
+Reply from 2404:6800:4002:811::200e: time=131ms 
+Reply from 2404:6800:4002:811::200e: time=72ms 
+Reply from 2404:6800:4002:811::200e: time=91ms 
+Reply from 2404:6800:4002:811::200e: time=302ms 
+Request timed out.
+Reply from 2404:6800:4002:811::200e: time=179ms 
+Reply from 2404:6800:4002:811::200e: time=67ms 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+
+Ping statistics for 2404:6800:4002:811::200e:
+    Packets: Sent = 439, Received = 387, Lost = 52 (11% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 62ms, Maximum = 3085ms, Average = 242ms
+Control-C
