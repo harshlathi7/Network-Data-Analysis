@@ -21,10 +21,10 @@ while i < ln-6:
 	else:
 		if t_prev==-1:
 			j=l[i].split()
-			t_prev = time_to_num(j[-2])
+			t_prev = time_to_num(j[-1])
 		else:
 			j=l[i].split()
-			t_curr = time_to_num(j[-2])
+			t_curr = time_to_num(j[-1])
 			cnt+=1
 			sm = sm + abs(t_curr - t_prev)
 			t_prev = t_curr
