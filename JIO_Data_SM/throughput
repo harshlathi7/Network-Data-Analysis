@@ -1,0 +1,90 @@
+Time: 12:00:00
+TCP Upstream: 30.11
+TCP Downstream: 34.14
+UDP Upstream: 39.46
+UDP Downstream: 22.32
+Round-trip time: 3.0
+
+Time: 13:00:00
+TCP Upstream: 26.70
+TCP Downstream: 32.67
+UDP Upstream: 39.03
+UDP Downstream: 20.66
+Round-trip time: 5.0
+
+Time: 14:00:00
+TCP Upstream: 31.16
+TCP Downstream: 35.23
+UDP Upstream: 44.81
+UDP Downstream: 21.90
+Round-trip time: 6.0
+
+Time: 15:00:00
+TCP Upstream: 28.94
+TCP Downstream: 35.51
+UDP Upstream: 43.84
+UDP Downstream: 21.34
+Round-trip time: 5.5
+
+Time: 16:00:00
+TCP Upstream: 18.82
+TCP Downstream: 29.91
+UDP Upstream: 24.53
+UDP Downstream: 18.78
+Round-trip time: 7.5
+
+Time: 17:00:00
+TCP Upstream: 28.64
+TCP Downstream: 35.28
+UDP Upstream: 42.17
+UDP Downstream: 21.39
+Round-trip time: 8.5
+
+Time: 18:00:00
+TCP Upstream: 29.60
+TCP Downstream: 35.53
+UDP Upstream: 45.55
+UDP Downstream: 21.57
+Round-trip time: 4.0
+
+Time: 19:00:00
+TCP Upstream: 28.98
+TCP Downstream: 32.68
+UDP Upstream: 35.54
+UDP Downstream: 21.56
+Round-trip time: 3.0
+
+Time: 20:00:00
+TCP Upstream: 30.42
+TCP Downstream: 35.33
+UDP Upstream: 43.57
+UDP Downstream: 22.22
+Round-trip time: 4.0
+
+Time: 21:00:00
+TCP Upstream: 30.99
+TCP Downstream: 36.20
+UDP Upstream: 44.06
+UDP Downstream: 22.24
+Round-trip time: 5.0
+
+Time: 22:00:00
+TCP Upstream: 29.38
+TCP Downstream: 34.76
+UDP Upstream: 42.92
+UDP Downstream: 21.53
+Round-trip time: 5.0
+
+Time: 23:00:00
+TCP Upstream: 30.53
+TCP Downstream: 36.11
+UDP Upstream: 47.80
+UDP Downstream: 22.27
+Round-trip time: 6.0
+
+Time: 00:00:00
+TCP Upstream: 30.04
+TCP Downstream: 35.79
+UDP Upstream: 43.94
+UDP Downstream: 21.81
+Round-trip time: 6.5
