@@ -1,0 +1,431 @@
+
+Pinging google.com [2404:6800:4002:80f::200e] with 32 bytes of data:
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=68ms 
+Reply from 2404:6800:4002:80f::200e: time=116ms 
+Reply from 2404:6800:4002:80f::200e: time=73ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=224ms 
+Reply from 2404:6800:4002:80f::200e: time=86ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=119ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=177ms 
+Reply from 2404:6800:4002:80f::200e: time=222ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=142ms 
+Reply from 2404:6800:4002:80f::200e: time=120ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=218ms 
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=329ms 
+Reply from 2404:6800:4002:80f::200e: time=131ms 
+Reply from 2404:6800:4002:80f::200e: time=116ms 
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+Reply from 2404:6800:4002:80f::200e: time=70ms 
+Reply from 2404:6800:4002:80f::200e: time=67ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Reply from 2404:6800:4002:80f::200e: time=110ms 
+Reply from 2404:6800:4002:80f::200e: time=101ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=70ms 
+Reply from 2404:6800:4002:80f::200e: time=87ms 
+Reply from 2404:6800:4002:80f::200e: time=198ms 
+Reply from 2404:6800:4002:80f::200e: time=68ms 
+Reply from 2404:6800:4002:80f::200e: time=158ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=221ms 
+Reply from 2404:6800:4002:80f::200e: time=73ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=95ms 
+Reply from 2404:6800:4002:80f::200e: time=205ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Reply from 2404:6800:4002:80f::200e: time=137ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=95ms 
+Reply from 2404:6800:4002:80f::200e: time=87ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Reply from 2404:6800:4002:80f::200e: time=68ms 
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=90ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=90ms 
+Reply from 2404:6800:4002:80f::200e: time=79ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=63ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=93ms 
+Reply from 2404:6800:4002:80f::200e: time=100ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=114ms 
+Reply from 2404:6800:4002:80f::200e: time=182ms 
+Reply from 2404:6800:4002:80f::200e: time=71ms 
+Reply from 2404:6800:4002:80f::200e: time=93ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Reply from 2404:6800:4002:80f::200e: time=99ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=79ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=96ms 
+Reply from 2404:6800:4002:80f::200e: time=119ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=145ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=87ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=87ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=65ms 
+Reply from 2404:6800:4002:80f::200e: time=152ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=70ms 
+Reply from 2404:6800:4002:80f::200e: time=71ms 
+Reply from 2404:6800:4002:80f::200e: time=100ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=79ms 
+Reply from 2404:6800:4002:80f::200e: time=98ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=93ms 
+Reply from 2404:6800:4002:80f::200e: time=70ms 
+Reply from 2404:6800:4002:80f::200e: time=99ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=106ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=128ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=71ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=214ms 
+Reply from 2404:6800:4002:80f::200e: time=164ms 
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Reply from 2404:6800:4002:80f::200e: time=112ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=124ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=79ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=86ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=217ms 
+Reply from 2404:6800:4002:80f::200e: time=89ms 
+Reply from 2404:6800:4002:80f::200e: time=254ms 
+Reply from 2404:6800:4002:80f::200e: time=94ms 
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=87ms 
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Reply from 2404:6800:4002:80f::200e: time=93ms 
+Reply from 2404:6800:4002:80f::200e: time=102ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=776ms 
+Reply from 2404:6800:4002:80f::200e: time=637ms 
+Reply from 2404:6800:4002:80f::200e: time=691ms 
+Reply from 2404:6800:4002:80f::200e: time=189ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=140ms 
+Reply from 2404:6800:4002:80f::200e: time=73ms 
+Reply from 2404:6800:4002:80f::200e: time=565ms 
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=160ms 
+Reply from 2404:6800:4002:80f::200e: time=111ms 
+Reply from 2404:6800:4002:80f::200e: time=94ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=75ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=90ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=202ms 
+Reply from 2404:6800:4002:80f::200e: time=59ms 
+Reply from 2404:6800:4002:80f::200e: time=67ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=136ms 
+Reply from 2404:6800:4002:80f::200e: time=104ms 
+Reply from 2404:6800:4002:80f::200e: time=123ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=175ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+Reply from 2404:6800:4002:80f::200e: time=525ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=158ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=171ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=146ms 
+Reply from 2404:6800:4002:80f::200e: time=499ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=159ms 
+Reply from 2404:6800:4002:80f::200e: time=112ms 
+Reply from 2404:6800:4002:80f::200e: time=383ms 
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=90ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=156ms 
+Reply from 2404:6800:4002:80f::200e: time=129ms 
+Reply from 2404:6800:4002:80f::200e: time=74ms 
+Reply from 2404:6800:4002:80f::200e: time=107ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=269ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=423ms 
+Reply from 2404:6800:4002:80f::200e: time=230ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=89ms 
+Reply from 2404:6800:4002:80f::200e: time=118ms 
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=458ms 
+Reply from 2404:6800:4002:80f::200e: time=313ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=89ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=185ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=347ms 
+Reply from 2404:6800:4002:80f::200e: time=131ms 
+Reply from 2404:6800:4002:80f::200e: time=79ms 
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=299ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=71ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=370ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=104ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=164ms 
+Reply from 2404:6800:4002:80f::200e: time=116ms 
+Reply from 2404:6800:4002:80f::200e: time=96ms 
+Reply from 2404:6800:4002:80f::200e: time=231ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=169ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=78ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=128ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=207ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=89ms 
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+Reply from 2404:6800:4002:80f::200e: time=191ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Reply from 2404:6800:4002:80f::200e: time=172ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=73ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=164ms 
+Reply from 2404:6800:4002:80f::200e: time=77ms 
+Reply from 2404:6800:4002:80f::200e: time=136ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=101ms 
+Reply from 2404:6800:4002:80f::200e: time=269ms 
+Reply from 2404:6800:4002:80f::200e: time=149ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=254ms 
+Reply from 2404:6800:4002:80f::200e: time=128ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Reply from 2404:6800:4002:80f::200e: time=136ms 
+Reply from 2404:6800:4002:80f::200e: time=148ms 
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=101ms 
+Reply from 2404:6800:4002:80f::200e: time=93ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=265ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=68ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=220ms 
+Reply from 2404:6800:4002:80f::200e: time=100ms 
+Reply from 2404:6800:4002:80f::200e: time=76ms 
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=253ms 
+Reply from 2404:6800:4002:80f::200e: time=440ms 
+Reply from 2404:6800:4002:80f::200e: time=439ms 
+Reply from 2404:6800:4002:80f::200e: time=266ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=390ms 
+Reply from 2404:6800:4002:80f::200e: time=130ms 
+Reply from 2404:6800:4002:80f::200e: time=149ms 
+Reply from 2404:6800:4002:80f::200e: time=308ms 
+Reply from 2404:6800:4002:80f::200e: time=85ms 
+Reply from 2404:6800:4002:80f::200e: time=702ms 
+Reply from 2404:6800:4002:80f::200e: time=322ms 
+Reply from 2404:6800:4002:80f::200e: time=199ms 
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=173ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=138ms 
+Reply from 2404:6800:4002:80f::200e: time=138ms 
+Reply from 2404:6800:4002:80f::200e: time=80ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=110ms 
+Reply from 2404:6800:4002:80f::200e: time=161ms 
+Reply from 2404:6800:4002:80f::200e: time=311ms 
+Reply from 2404:6800:4002:80f::200e: time=577ms 
+Reply from 2404:6800:4002:80f::200e: time=261ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=287ms 
+Reply from 2404:6800:4002:80f::200e: time=306ms 
+Reply from 2404:6800:4002:80f::200e: time=161ms 
+Reply from 2404:6800:4002:80f::200e: time=131ms 
+Reply from 2404:6800:4002:80f::200e: time=340ms 
+Reply from 2404:6800:4002:80f::200e: time=311ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=178ms 
+Reply from 2404:6800:4002:80f::200e: time=68ms 
+Reply from 2404:6800:4002:80f::200e: time=458ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=385ms 
+Reply from 2404:6800:4002:80f::200e: time=219ms 
+Reply from 2404:6800:4002:80f::200e: time=349ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=91ms 
+Reply from 2404:6800:4002:80f::200e: time=72ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=376ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=171ms 
+Reply from 2404:6800:4002:80f::200e: time=94ms 
+Reply from 2404:6800:4002:80f::200e: time=79ms 
+Reply from 2404:6800:4002:80f::200e: time=398ms 
+Reply from 2404:6800:4002:80f::200e: time=136ms 
+Reply from 2404:6800:4002:80f::200e: time=92ms 
+Reply from 2404:6800:4002:80f::200e: time=366ms 
+Reply from 2404:6800:4002:80f::200e: time=150ms 
+Reply from 2404:6800:4002:80f::200e: time=176ms 
+Reply from 2404:6800:4002:80f::200e: time=223ms 
+Reply from 2404:6800:4002:80f::200e: time=372ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Reply from 2404:6800:4002:80f::200e: time=522ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=249ms 
+Reply from 2404:6800:4002:80f::200e: time=130ms 
+Reply from 2404:6800:4002:80f::200e: time=878ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Reply from 2404:6800:4002:80f::200e: time=138ms 
+Reply from 2404:6800:4002:80f::200e: time=239ms 
+Reply from 2404:6800:4002:80f::200e: time=102ms 
+Reply from 2404:6800:4002:80f::200e: time=88ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=161ms 
+Reply from 2404:6800:4002:80f::200e: time=128ms 
+Reply from 2404:6800:4002:80f::200e: time=397ms 
+Reply from 2404:6800:4002:80f::200e: time=266ms 
+Reply from 2404:6800:4002:80f::200e: time=120ms 
+Reply from 2404:6800:4002:80f::200e: time=148ms 
+Reply from 2404:6800:4002:80f::200e: time=69ms 
+Request timed out.
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=70ms 
+Reply from 2404:6800:4002:80f::200e: time=99ms 
+Reply from 2404:6800:4002:80f::200e: time=111ms 
+Reply from 2404:6800:4002:80f::200e: time=603ms 
+Reply from 2404:6800:4002:80f::200e: time=136ms 
+Reply from 2404:6800:4002:80f::200e: time=73ms 
+Reply from 2404:6800:4002:80f::200e: time=96ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=82ms 
+Reply from 2404:6800:4002:80f::200e: time=61ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Request timed out.
+Reply from 2404:6800:4002:80f::200e: time=201ms 
+Reply from 2404:6800:4002:80f::200e: time=147ms 
+Reply from 2404:6800:4002:80f::200e: time=98ms 
+Reply from 2404:6800:4002:80f::200e: time=89ms 
+Reply from 2404:6800:4002:80f::200e: time=84ms 
+Reply from 2404:6800:4002:80f::200e: time=89ms 
+Reply from 2404:6800:4002:80f::200e: time=83ms 
+Reply from 2404:6800:4002:80f::200e: time=94ms 
+Reply from 2404:6800:4002:80f::200e: time=81ms 
+
+Ping statistics for 2404:6800:4002:80f::200e:
+    Packets: Sent = 423, Received = 367, Lost = 56 (13% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 59ms, Maximum = 878ms, Average = 141ms
+Control-C
